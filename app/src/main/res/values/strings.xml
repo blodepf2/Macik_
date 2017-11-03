@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Macik</string>
+    <string name="txt_cim1">Első macis játék</string>
+    <string name="txt_cim2">Második macis játék</string>
+    <string name="txt_nev1">Angus</string>
+    <string name="txt_nev2">Barnamackó</string>
+    <string name="txt_nev3">Brumi</string>
+    <string name="txt_nev4">Buwluf</string>
+    <string name="txt_nev5">Cilu</string>
+    <string name="txt_nev6">Douglas</string>
+    <string name="txt_nev7">Edward</string>
+    <string name="txt_nev8">Kismaci</string>
+    <string name="txt_nev9">Kistesó</string>
+    <string name="txt_nev10">Lydia</string>
+    <string name="txt_nev11">Nagymaci</string>
+    <string name="txt_nev12">Nagytesó</string>
+    <string name="txt_nev13">Norti</string>
+    <string name="txt_nev14">Vándor</string>
+    <string name="txt_nev15">Wicket</string>
+    <string name="btn_valaszt">Választás</string>
+    <string name="todo">TODO</string>
+</resources>
